@@ -1,2 +1,2 @@
-shell.execute("example.lua")
-
+local shell = require("shell")
+shell.execute("lol.lua")
